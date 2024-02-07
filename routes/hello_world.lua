@@ -1,5 +1,6 @@
 return {
 	hello = {
-		model = "stub.lua"
+		model = "hello_world",
+		view = "hello_world"
 	}
 }
